@@ -1,0 +1,8 @@
+.content {
+  overflow: hidden;
+  border-radius: 0 0 8px 8px;
+  margin-top: 28px;
+  background: #fefefe;
+  box-shadow: 1px 1px 9px #33333310;
+  max-width: 60%;
+}

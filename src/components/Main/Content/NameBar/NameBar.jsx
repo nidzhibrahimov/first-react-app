@@ -6,11 +6,11 @@ const NameBar = () => {return(
 	<div className={style.content}>
 
 		<div className={style.avatar}>
-			<img src='https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/marilyn_monroe_artist_avatar-256.png' alt='Avatar'></img>
+			<img src='https://costablancalive.es/wp-content/uploads/2017/11/accessories-for-businesswomen-1050x700.jpg' alt='Avatar'></img>
 		</div>
 
 		<div className={style.name}>
-			<p>Alice Ibrahimova</p>
+			<p>Elizabeth Joel</p>
 		</div>
 
 	</div>
