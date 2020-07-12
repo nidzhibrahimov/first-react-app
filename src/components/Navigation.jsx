@@ -1,16 +1,16 @@
 import React from 'react';
-import '../App.css';
+import style from './Navigation.module.css';
 
 
 const Navigation = () => {return(
 
 
-	<nav className='nav'>
-	<div>Profile</div>
-	<div>Messeges</div>
-	<div>News</div>
-	<div>Music</div>
-	<div>Settings</div>
+	<nav className={style.nav}>
+	<div className={style.item}>Profile</div>
+	<div className={style.item}>Messeges</div>
+	<div className={style.item}>News</div>
+	<div className={style.item}>Music</div>
+	<div className={style.item}>Settings</div>
 	</nav>
 
 

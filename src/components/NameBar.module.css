@@ -1,0 +1,13 @@
+.content {
+	display: flex;
+	align-items: flex-end;
+}
+.avatar img {
+  padding: 20px;
+  height: 140px;
+}
+.name {
+	font-weight: 500;
+	font-size: 1.4rem;
+	padding-bottom: 10px;
+}

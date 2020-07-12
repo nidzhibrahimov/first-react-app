@@ -4,6 +4,7 @@ import Navigation from './components/Navigation';
 import ProfileNavbar from './components/ProfileNavbar';
 import NameBar from './components/NameBar';
 import Wall from './components/Wall';
+import Footer from './components/Footer';
 import './App.css';
 
 const App = () => {return(
@@ -19,6 +20,7 @@ const App = () => {return(
           <Wall />
         </div>
       </div>
+      <Footer />
 
     </div>
 

@@ -1,10 +1,10 @@
 import React from 'react';
-import '../App.css';
+import style from './ProfileNavbar.module.css';
 
 
 const ProfileNavbar = () => {return(
 
-	<div className='profil-nav'>
+	<div className={style.nav}>
 	</div>
 
 	)}
