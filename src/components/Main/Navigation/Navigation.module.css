@@ -2,15 +2,23 @@
 	height: 100%;
 	border-radius: 8px;
 	background: #fefefe;
-  padding: 20px 50px 20px 30px;
   margin: 50px 20px 0px 0px;
   box-shadow: 1px 1px 9px #33333310;
 }
 
 .item {
-  padding: 5px 0;
+	padding: 4px 60px 4px 20px;
+
+}
+.item:hover {
+	background: #4B84A3;
+	color: #fff;
 }
 
+.item:first-child {
+	border-radius: 8px 8px 0 0;
+}
 .item:last-child {
-	padding-top: 100px;
+	margin-top: 100px;
+	border-radius: 0 0 8px 8px;
 }
