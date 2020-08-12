@@ -1,0 +1,11 @@
+h2 {
+	padding-left: 30px;
+}
+.dialogs {
+	display: flex;
+	justify-content: space-around;
+}
+
+.active {
+	color: #5491b3;
+}
